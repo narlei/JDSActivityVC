@@ -6,7 +6,7 @@ Tweetbot and Tumblr's usage of this customization.
 
 ## Screenshots
 
-![](https://imgur.com/a/9X8vp)
+![](http://oi67.tinypic.com/11sjyom.jpg)
 
 ## Installation
 
@@ -31,4 +31,6 @@ presentViewController(sampleActivityViewController, animated: true, completion: 
 ```
 
 Started by [@jasdev](https://twitter.com/jasdev)
+
+
 Improved by by [@narleimoreira](https://twitter.com/narleimoreira)
